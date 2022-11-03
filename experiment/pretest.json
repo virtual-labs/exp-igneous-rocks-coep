@@ -2,35 +2,103 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The branch of geology which deals with various aspects of rocks is ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Petrology",
+        "b": "Mineralogy",
+        "c": "Lithology",
+        "d": "Rockology"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation : The branch of geology dealing with various aspects of rocks such as their formation, classification and occurrence is called petrology",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the state of lava or magma??",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Liquid always",
+        "b": "Solid",
+        "c": "Gaseous",
+        "d": "Mixture of liquid, crystals and gases"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation: Magma or lava from which igneous rocks are formed may not be entirely a pure melt: it may have a crystalline or solid fraction and also a gaseous fraction thoroughly mixed with it"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Where are the volcanic rocks formed?",
+      "answers": {
+        "a": "Under the surface of earth",
+        "b": "On the surface of earth",
+        "c": "Inside the core",
+        "d": "Between mantle"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation :Volcanic rocks are the igneous rocks formed on the surface of the Earth by cooling and crystallization of lava erupted from volcanoes",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the grain size of volcanic rocks?",
+      "answers": {
+        "a": "Very coarse",
+        "b": "Coarse",
+        "c": "Intermediate",
+        "d": "Very fine"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation :Since the lava cools down at a very fast rate (compared to magma), the grain size of the crystals formed in the volcanic rocks is very fine, often microscope."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Pick the plutonic igneous rock.",
+      "answers": {
+        "a": "Granite",
+        "b": "Granite porphyry",
+        "c": "Syenite porphyry",
+        "d": "Marble"
+      },
+      "explanations": {
+        "a": "Explanation : Granites, Syenites and Gabbros are a few examples of Plutonic rocks. They occur in good abundance in both the Peninsular and extra-Peninsular India.",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Porphyries are examples of which type of rocks?",
+      "answers": {
+        "a": "Volcanic",
+        "b": "Plutonic",
+        "c": "Hypabyssal",
+        "d": "Sedimentary rocks"
+      },
+      "explanations": {
+        "a": "Explanation :",
+        "b": "Explanation ",
+        "c": "Explanation :Porphyries of various composition are examples of hypabyssal rocks.",
+        "d": "Explanation "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
