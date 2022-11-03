@@ -1,4 +1,4 @@
-### INDRODUCTION TO PETROLOGY
+### INTRODUCTION TO PETROLOGY
 - The study of rocks constitutes science of petrology. Petrology consists of a study, by all available methods of natural history of rocks including their origin, present condition and alteration decay etc.
 - The term commonly used for signifying general nature of a rock is lithology, which is a description of characters of rocks observable in their hand specimens and its occurrence in nature.
 - Though the same few minerals occur in rocks formed by different processes, other characters of rocks such as structures and textures depend on process of formation. 
