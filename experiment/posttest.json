@@ -1,39 +1,108 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+	"version": 2.0,
+	"questions": [
+	{
+			"question": "What are the two conditions believed to be required for the formation of igneous rocks?",
+			"answers": {
+				"a": "Low temperature and molten state",
+				"b": "Molten state and very high temperature",
+				"c": "Molten state and moderate temperature",
+				"d": "Crystallized state and moderate temperature"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation :A very high temperature and a molten state are, two very important conditions for the original material from which the igneous rocks are believed to have been formed",
+				"c": "Explanation ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The plutonic rocks are formed at depths below the earth’s surface ranging",
+			"answers": {
+				"a": "10 to 100 km",
+				"b": "100 to 200 km",
+				"c": "7 to 10 km",
+				"d": "1 to 5 km"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation ",
+				"c": "Explanation:Plutonic rocks are the igneous rocks formed at considerable depths, generally between 7-10 km below the surface of the earth.",
+				"d": "Explanation "
+			},
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The rock is coarse grained in",
+			"answers": {
+				"a": "Volcanic rocks",
+				"b": "Plutonic rocks",
+				"c": "Hypabyssal rocks always",
+				"d": "1 to 5 km"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation :Because of a very slow rate of cooling at the depths, the rocks resulting from magma are coarse grained. These rocks get exposed on the surface of the earth as a consequence of erosion of the overlying strata",
+				"c": "Explanation ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The rocks which exhibit mixed characteristics of volcanic and plutonic rocks are ",
+			"answers": {
+				"a": "Intermediate rocks",
+				"b": "Mixed rocks",
+				"c": "Hypabyssal rocks",
+				"d": "Secondary rocks"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation ",
+				"c": "Explanation:The hypabyssal rocks are the igneous rocks which are formed at intermediate depths, generally up to 2 km below the surface of the earth and exhibit mixed characteristics of volcanic and plutonic rocks.",
+				"d": "Explanation "
+			},
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The type of concordant body whose thickness is much smaller than its length and width is  ",
+			"answers": {
+				"a": "Sill",
+				"b": "Phacolith",
+				"c": "Dyke",
+				"d": "Laccolith"
+			},
+			"explanations": {
+				"a": "Explanation :It is typical of sills that their thickness is much small than their width and length. Moreover, this body commonly thins out or tapers along its outer margins. ",
+				"b": "Explanation ",
+				"c": "Explanation  ",
+				"d": "Explanation "
+			},
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The upper and lower margins of sills are relatively  ",
+			"answers": {
+				"a": "Coarser grain size",
+				"b": "Medium grain size",
+				"c": "Finer grain size",
+				"d": "Can be of any size"
+			},
+			"explanations": {
+				"a": "Explanation ",
+				"b": "Explanation ",
+				"c": "Explanation: The upper and lower margins of sills commonly show a comparatively finer grain size than their interior portions.",
+				"d": "Explanation "
+			},
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		}
+
+	]
 }
