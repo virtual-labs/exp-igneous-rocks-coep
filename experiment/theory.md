@@ -19,7 +19,7 @@ In nature there exists three types of rocks: They are -
 ##### The rock cycle shows relationship between three types of rocks.
 - Igneous 	
 - Sedimentary and 	
-- Metamorphic 
+- Metamorphic <br>
 	
 ![ingiCycle2*******************************************************************************](images/ingiCycle2.jpg)
 
@@ -57,13 +57,13 @@ The extrusive rocks are called as volcanic rocks.
 
 	
 ### Hypabyssal igneous rock 
-    - Hypabyssal igneous rocks, formed below earth surface up to the depth of 2 km.
-    - Minerals are medium grained i.e. coarser than volcanic and finer than those of plutonic e.g. Apatite, Dolerite.
-    - These rocks generally show porphyritic texture.
+- Hypabyssal igneous rocks, formed below earth surface up to the depth of 2 km.
+- Minerals are medium grained i.e. coarser than volcanic and finer than those of plutonic e.g. Apatite, Dolerite.
+- These rocks generally show porphyritic texture.
 
 ### Plutonic igneous rock 
-    - Plutonic igneous rock formed at greater depth from magma which is deeply buried in earth’s crust.
-    - Minerals are coarse grained e.g. Granite, Gabbro
+- Plutonic igneous rock formed at greater depth from magma which is deeply buried in earth’s crust.
+- Minerals are coarse grained e.g. Granite, Gabbro
     
 ### Structures of Igneous Rocks 
 The physical appearance of igneous rocks, usually influenced by the process of formation results in typical structural characteristics. These structures re useful in field identification of the rocks
