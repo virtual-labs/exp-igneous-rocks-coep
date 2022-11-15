@@ -3,6 +3,8 @@
 - The term commonly used for signifying general nature of a rock is lithology, which is a description of characters of rocks observable in their hand specimens and its occurrence in nature.
 - Though the same few minerals occur in rocks formed by different processes, other characters of rocks such as structures and textures depend on process of formation. 
 
+You can find the rocks and its properties file in references which is developed by Dr. Sandeep A. Meshram, Associate Professor in Geology, COEP Technological University, Pune
+
 ### Main divisions of rocks :
 In nature there exists three types of rocks: They are - 
 - Igneous rocks
