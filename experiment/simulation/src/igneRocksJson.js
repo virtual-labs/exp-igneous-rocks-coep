@@ -20,22 +20,6 @@ questionAnswer = {
 };
 tempQuestionArr.push(questionAnswer);
 questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Black",
-	"correctAns": "Brown",
-	"wrongAns2": "Gray",
-	"wrongAns3": "White"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull",
-	"wrongAns2": "Glassy",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
 	"wrongAns1": "Perfect",
@@ -43,14 +27,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.7 -3.3",
@@ -68,14 +45,14 @@ questionAnswer = {
 	"wrongAns3": "Feldspar"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the diaphaneity of this igneous rock?",
-	"correctAns": "Opaque",
-	"wrongAns1": "None of these",
-	"wrongAns2": "Obvious-to-translucent",
-	"wrongAns3": "Opaque, Translucent, Transparent"
-};
-tempQuestionArr.push(questionAnswer);
+// questionAnswer = {
+//	"question": " What is the diaphaneity of this igneous rock?",
+//	"correctAns": "Opaque",
+//	"wrongAns1": "None of these",
+//	"wrongAns2": "Obvious-to-translucent",
+//	"wrongAns3": "Opaque, Translucent, Transparent"
+// };
+// tempQuestionArr.push(questionAnswer);
  
 masterJson = {
 	"mineralId": 1,
@@ -86,11 +63,8 @@ masterJson = {
 	"src2": "images/Amgdaloidalbasalt2.jpg",
 	"chemical_Classification": "Basic",
 	"colour": "Black or very dark brown",
-	"streak": "Brown",
-	"luster": "Dull",
-	"mohs_Hardness": "6",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.7-3.3",
 	"chemical_Composition": "Rich in dense iron and pyroxene minerals ",
 	"specialProperties": "Found as candlesticks, bookends, plaques, figurines,sculptures, and vases.",
@@ -119,22 +93,7 @@ questionAnswer = {
 	"wrongAns3": "Variable"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Light blue",
-	"correctAns": "White to gray",
-	"wrongAns2": "Pale gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull",
-	"wrongAns2": "Silky",
-	"wrongAns3": "Glassy"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "90-degree cleavage and breaks easily.",
@@ -142,14 +101,7 @@ questionAnswer = {
 	"wrongAns2": "Indistinct",
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
+
 tempQuestionArr.push(questionAnswer);
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
@@ -169,13 +121,13 @@ questionAnswer = {
 };
 tempQuestionArr.push(questionAnswer);
 
-questionAnswer = {
-	"question": " What is the diaphaneity of this igneous rock?",
-	"correctAns": "Opaque",
-	"wrongAns1": "None of these",
-	"wrongAns2": "Obvious-to-translucent",
-	"wrongAns3": "Opaque, Translucent, Transparent"
-};
+// questionAnswer = {
+//	"question": " What is the diaphaneity of this igneous rock?",
+//	"correctAns": "Opaque",
+//	"wrongAns1": "None of these",
+//	"wrongAns2": "Obvious-to-translucent",
+//	"wrongAns3": "Opaque, Translucent, Transparent"
+// };
 tempQuestionArr.push(questionAnswer);
  
 masterJson = {
@@ -187,11 +139,8 @@ masterJson = {
 	//"src2": "images/AphaniticBasalt2.jpg",
 	"chemical_Classification": "Intermediate",
 	"colour": "Dark gray to Black",
-	"streak": "White to gray",
-	"luster": "Dull",
-	"mohs_Hardness": "6",
 	"cleavage": "90-degree cleavage and breaks easily.",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.8-3",
 	"chemical_Composition": "Consists mainly of iron and magnesium silicates, calcic plagioclase and pyroxene",
 	"specialProperties": "Basalt is used in construction, making cobblestones and in making statues.",
@@ -221,22 +170,7 @@ questionAnswer = {
 	"wrongAns3": "Variable"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Pale gray",
-	"correctAns": "Black, gray",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Shiny",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
@@ -245,14 +179,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5.5 - 6.0",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.8 - 3",
@@ -270,7 +197,7 @@ questionAnswer = {
 	"wrongAns3": "Feldspar"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
@@ -279,7 +206,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 3,
 	"originalName": "Biotite Diorite",
@@ -289,11 +216,8 @@ masterJson = {
 	"src2": "images/BiotiteDiorite2.jpg",
 	"chemical_Classification": "Intermediate",
 	"colour": "Black, brown and gray.",
-	"streak": "Black, gray",
-	"luster": "Shiny",
-	"mohs_Hardness": "5.5 - 6.0",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.8-3",
 	"chemical_Composition": "Two-thirds plagioclase feldspar and one-third dark-coloured minerals, such as hornblende",
 	"specialProperties": "It is used as a base material in the construction of roads buildings, and parking areas.",
@@ -323,22 +247,7 @@ questionAnswer = {
 	"wrongAns3": "Variable"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Black",
-	"correctAns": "Brown to gray",
-	"wrongAns2": "White",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull",
-	"wrongAns2": "Silky",
-	"wrongAns3": "Glassy"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
@@ -347,14 +256,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.8 - 3",
@@ -372,7 +274,7 @@ questionAnswer = {
 	"wrongAns3": "Feldspar"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
@@ -381,7 +283,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 4,
 	"originalName": "Compact Porphyritic Basalt",
@@ -392,11 +294,8 @@ masterJson = {
 //	"src3": "images/CompactporphyriticBasalt3.jpg",
 	"chemical_Classification": "Mafic",
 	"colour": "Dark Gray to Black ",
-	"streak": "Brown to gray",
-	"luster": "Dull",
-	"mohs_Hardness": "6",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.8-3",
 	"chemical_Composition": "Calcium Plagioclase, Pyroxene",
 	"specialProperties": "It is most commonly crushed for use as an aggregate in construction projects.",
@@ -424,22 +323,7 @@ questionAnswer = {
 	"wrongAns3": "Variable"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Pearly white",
-	"correctAns": "White",
-	"wrongAns2": "Pale gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Subvitreous to Dull",
-	"wrongAns2": "Glassy",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Perfect",
@@ -447,14 +331,7 @@ questionAnswer = {
 	"wrongAns2": "Inditinct",
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "2-2.5",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
+
 tempQuestionArr.push(questionAnswer);
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
@@ -473,7 +350,7 @@ questionAnswer = {
 	"wrongAns3": "Feldspar"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Translucent",
@@ -482,7 +359,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 5,
 	"originalName": "Dacite",
@@ -493,11 +370,8 @@ masterJson = {
 	
 	"chemical_Classification": "Felsic",
 	"colour": "Bluish-gray or pale gray",
-	"streak": "White",
-	"luster": "Subvitreous to Dull",
-	"mohs_Hardness": "2-2.5",
 	"cleavage": "Perfect",
-	"diaphaneity": "Translucent",
+//	"diaphaneity": "Translucent",
 	"gravity": "2.86-2.87",
 	"chemical_Composition": "Ca, Fe, Potassium Oxide, Mg, Potassium, Silicon Dioxide",
 	"specialProperties": "Dacite is sometimes used to produce crushed stone. It performs well as fill and as a loose aggregate in a wide variety of construction projects. It does not perform well as a concrete aggregate because its high silica content reacts with the cement.",
@@ -526,22 +400,7 @@ questionAnswer = {
 	"wrongAns3": "Variable"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Light blue",
-	"correctAns": "Bluish black",
-	"wrongAns2": "Gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Shiny",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
@@ -550,14 +409,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5.5 - 6.0",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.8 to 3",
@@ -576,7 +428,7 @@ questionAnswer = {
 };
 tempQuestionArr.push(questionAnswer);
 
-questionAnswer = {
+/* questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
 	"wrongAns1": "None of these",
@@ -584,7 +436,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 6,
 	"originalName": "Diorite",
@@ -594,11 +446,8 @@ masterJson = {
 	"src2": "images/Diorite2.jpg",
 	"chemical_Classification": "Intermediate",
 	"colour": "Black, brown, light to dark gray and white",
-	"streak": "Bluish black",
-	"luster": "Shiny",
-	"mohs_Hardness": "5.5 - 6.0",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.8 - 3",
 	"chemical_Composition": "Mainly composed of SiO<sub>2</sub>",
 	"specialProperties": "Found in interior and exterior spaces of buildings.",
@@ -628,22 +477,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Light blue",
-	"correctAns": "Black",
-	"wrongAns2": "Gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull",
-	"wrongAns2": "Glassy",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
@@ -652,14 +486,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5 - 6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.8",
@@ -677,16 +504,16 @@ questionAnswer = {
 	"wrongAns3": "Feldspar"
 };
 tempQuestionArr.push(questionAnswer);
-
-questionAnswer = {
+/*
+ questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
 	"wrongAns1": "None of these",
 	"wrongAns2": "Obvious-to-translucent",
 	"wrongAns3": "Opaque, Translucent, Transparent"
-};
-tempQuestionArr.push(questionAnswer);
- 
+ };
+ tempQuestionArr.push(questionAnswer);
+ */
 masterJson = {
 	"mineralId": 7,
 	"originalName": "Dolerite",
@@ -696,11 +523,8 @@ masterJson = {
 	"src2": "images/DOLERITE3.jpg",
 	"chemical_Classification": "Mafic, holocrystalline, subvolcanic rock",
 	"colour": "Dark gray to black",
-	"streak": "Black",
-	"luster": "Dull",
-	"mohs_Hardness": "5 - 6",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.8",
 	"chemical_Composition": "The essential minerals are plagioclase. feldspar and pyroxene, which together constitute between. about 60% and 80% of the total rock composition",
 	"specialProperties": "Dolerite is crushed and used as a construction aggregate for road beds, buildings, railroad beds",
@@ -729,22 +553,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Pale gray",
-	"correctAns": "Black",
-	"wrongAns2": "Gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull",
-	"wrongAns2": "Shiny",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Not available",
@@ -753,14 +562,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.86-2.87",
@@ -778,7 +580,7 @@ questionAnswer = {
 	"wrongAns3": "Feldspar"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
@@ -787,7 +589,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 8,
 	"originalName": "Gabbro Showing Play Of Colours",
@@ -797,11 +599,8 @@ masterJson = {
 	"src2": "images/Gabbro2.jpg",
 	"chemical_Classification": "Mafic",
 	"colour": "Black or dark green",
-	"streak": "Black",
-	"luster": "Dull",
-	"mohs_Hardness": "7",
 	"cleavage": "Not available",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.86-2.87",
 	"chemical_Composition": "Calcium Plagioclase, Pyroxene",
 	"specialProperties": "Used to make curbing, ashlars, paving stones, and a variety of other rough-cut items",
@@ -829,22 +628,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Light blue",
-	"correctAns": "Black",
-	"wrongAns2": "Gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull",
-	"wrongAns2": "Glassy",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Not available",
@@ -853,14 +637,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6-7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.7-3.3",
@@ -878,6 +655,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
@@ -886,7 +664,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 9,
 	"originalName": "Giant Phenocryst Basalt",
@@ -896,11 +674,8 @@ masterJson = {
 	"src2": "images/Giantphenocrystsbasalt2.jpg",
 	"chemical_Classification": "Mafic",
 	"colour": "Light brown or dark gray",
-	"streak": "Black",
-	"luster": "Dull",
-	"mohs_Hardness": "6-7",
 	"cleavage": "Not available",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.7-3.3",
 	"chemical_Composition": "Feldspar",
 	"specialProperties": "It is composed of mineral grains which are mostly indistinguishable to the naked eye. Basalt may also contain volcanic glass. Basalt may contain phenocrysts (larger crystals within fine-grained groundmass) and vesicules (holes that were filled by volcanic gases).",
@@ -928,22 +703,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Bluish Black",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull",
-	"wrongAns2": "Shiny",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
@@ -952,14 +712,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6-7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.70-3.24",
@@ -995,11 +748,8 @@ masterJson = {
 	"src2": "images/CHARNOKITE3.jpg",
 	"chemical_Classification": "Orthopyroxene granite",
 	"colour": "Black, gray, orange, pink, white",
-	"streak": "White",
-	"luster": "Dull",
-	"mohs_Hardness": "6-7",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.70-3.24",
 	"chemical_Composition": "The charnockite series includes rocks of many different types, some being felsic and rich in quartz and microcline, others mafic and full of pyroxene and olivine",
 	"specialProperties": "Charnockites are igneous while granulites are metamorphic. Charnockite is coarse-grained and lacks foliage. Both of these have a similar utility and are often used in the construction industry.",
@@ -1029,22 +779,6 @@ questionAnswer = {
 };
 tempQuestionArr.push(questionAnswer);
 questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Black",
-	"correctAns": "White",
-	"wrongAns2": "Gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Dull to Grainy with Sporadic parts Pearly and Vitreous",
-	"wrongAns2": "Shiny",
-	"wrongAns3": "Glassy"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
 	"wrongAns1": "Perfect",
@@ -1052,14 +786,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6-7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.6-2.7",
@@ -1077,7 +804,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
@@ -1086,7 +813,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 11,
 	"originalName": "Granite",
@@ -1096,11 +823,8 @@ masterJson = {
 	"src2": "images/Granite2.jpg",
 	"chemical_Classification": "Quartz and feldspar",
 	"colour": " White, pink, or gray",
-	"streak": "White",
-	"luster": "Dull to Grainy with Sporadic parts Pearly and Vitreous",
-	"mohs_Hardness": "6-7",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.6-2.7",
 	"chemical_Composition": "Aluminium Oxide, CaO, Iron(III) Oxide, FeO, Potassium Oxide, MgO, MnO, Sodium Oxide, Phosphorus Pentoxide, Silicon Dioxide, Titanium Dioxide",
 	"specialProperties": "Granite characteristics include strength and durability. This unique and elegant natural stone is one of the oldest, hardest, and strongest stones available. A truly beautiful natural stone with hundreds of colors and patterns to choose from.",
@@ -1128,22 +852,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Bluish black",
-	"correctAns": "Gray",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Vitreous",
-	"correctAns": "Pearly and vitreous",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "None",
@@ -1152,14 +861,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6-7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.6-2.7",
@@ -1196,11 +898,8 @@ masterJson = {
 	"src2": "images/GraphicGranite2.jpg",
 	"chemical_Classification": "Leucocratic granitic rock",
 	"colour": "Pink, white, variations of gray and black",
-	"streak": "Gray",
-	"luster": "Pearly and vitreous",
-	"mohs_Hardness": "6-7",
 	"cleavage": "None",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "2.6-2.7",
 	"chemical_Composition": "Aluminium Oxide, CaO, Iron(III) Oxide, FeO, Potassium Oxide, MgO, MnO, Sodium Oxide, Phosphorus Pentoxide, Silicon Dioxide, Titanium Dioxide",
 	"specialProperties": "Granite characteristics include strength and durability. This unique and elegant natural stone is one of the oldest, hardest, and strongest stones available. A truly beautiful natural stone with hundreds of colors and patterns to choose from.",
@@ -1228,22 +927,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray",
-	"correctAns": "Pale gray, gray-white, white, colorless",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Dull",
-	"correctAns": "Vitreous to dull",
-	"wrongAns2": "Shiny",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Imperfect at 56&deg; and 124&deg;",
@@ -1252,14 +936,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5-6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.9",
@@ -1277,6 +954,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Translucent to nearly opaque",
@@ -1285,7 +963,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 13,
 	"originalName": "Hornblende Granite",
@@ -1295,11 +973,8 @@ masterJson = {
 	"src2": "images/Horblendegranite2.jpg",
 	"chemical_Classification": "Silicate",
 	"colour": "Pure green to greenish-black",
-	"streak": "Pale gray, gray-white, white, colorless",
-	"luster": "Vitreous to dull",
-	"mohs_Hardness": "5-6",
 	"cleavage": "Imperfect at 56&deg; and 124&deg;",
-	"diaphaneity": "Translucent to nearly opaque",
+//	"diaphaneity": "Translucent to nearly opaque",
 	"gravity": "2.9",
 	"chemical_Composition": "(Ca,Na)<sub>2</sub>(Mg,Fe,Al)<sub>5</sub>(Al,Si)<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub>",
 	"specialProperties": "Granite characteristics include strength and durability. This unique and elegant natural stone is one of the oldest, hardest, and strongest stones available. A truly beautiful natural stone with hundreds of colors and patterns to choose from.",
@@ -1326,22 +1001,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray",
-	"correctAns": "Pale gray, gray-white, white, colorless",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Dull",
-	"wrongAns2": "Viterous",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Imperfect at 56&deg; and 124&deg;",
@@ -1350,14 +1010,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5-6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.9",
@@ -1393,11 +1046,8 @@ masterJson = {
 	"src2": "images/HYDROTHERMALLYAMYGDALOIDALBASALT3.jpg",
 	"chemical_Classification": "Silicate",
 	"colour": "Pure green to greenish-black",
-	"streak": "Pale gray, gray-white, white, colorless",
-	"luster": "Dull",
-	"mohs_Hardness": "5-6",
 	"cleavage": "Imperfect at 56&deg; and 124&deg;",
-	"diaphaneity": "Translucent to nearly opaque",
+//	"diaphaneity": "Translucent to nearly opaque",
 	"gravity": "2.9",
 	"chemical_Composition": "(Ca,Na)<sub>2</sub>(Mg,Fe,Al)<sub>5</sub>(Al,Si)<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub>",
 	"specialProperties": "Hydrothermal alteration is defined as any alteration of rocks or minerals by the reaction of hydrothermal fluid with preexisting solid phases.",
@@ -1426,22 +1076,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Pale gray, gray-white, white, colorless",
-	"correctAns": "White, often sheds tiny flakes",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Pearly to Vitreous",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Vitreous"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Imperfect at 56&deg; and 124&deg;",
@@ -1450,14 +1085,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5-6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.8 - 2.9",
@@ -1475,6 +1103,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Transparent to translucent",
@@ -1483,7 +1112,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 15,
 	"originalName": "Muscovite Granite",
@@ -1493,11 +1122,8 @@ masterJson = {
 	"src2": "images/MuscoviteGranite2.jpg",
 	"chemical_Classification": "Silicate",
 	"colour": "Thick specimens often appear to be black, brown, or silver in color; however, when split into thin sheets muscovite is colorless, sometimes with a tint of brown, yellow, green, or rose",
-	"streak": "White, often sheds tiny flakes",
-	"luster": "Pearly to Vitreous",
-	"mohs_Hardness": "5-6",
 	"cleavage": "Imperfect at 56&deg; and 124&deg;",
-	"diaphaneity": "Transparent to translucent",
+//	"diaphaneity": "Transparent to translucent",
 	"gravity": "2.8 - 2.9",
 	"chemical_Composition": "KAl<sub>2</sub>(Si<sub>3</sub>AlO<sub>10</sub>)(OH)<sub>2</sub>",
 	"specialProperties": "Muscovite is easily identified because its perfect cleavage allows it to be split into thin, flexible, elastic, colorless, transparent sheets with a pearly to vitreous luster. It is the only common mineral with these properties.",
@@ -1529,22 +1155,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "White",
-	"correctAns": "Pale gray, gray-white, white, colorless",
-	"wrongAns2": "Gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Glassy",
-	"wrongAns2": "Shiny",
-	"wrongAns3": "Dull"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "It is translucent in thin cleavage fragments and along sharp margins.",
@@ -1553,14 +1164,7 @@ questionAnswer = {
 	"wrongAns3": "Pencil"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5-6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.6",
@@ -1578,7 +1182,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Transparent to translucent",
@@ -1587,7 +1191,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 16,
 	"originalName": "Obsidian",
@@ -1597,11 +1201,8 @@ masterJson = {
 	"src2": "images/Obsidian2.jpg",
 	"chemical_Classification": "Silicate",
 	"colour": "Deep black or blackish green",
-	"streak": "White",
-	"luster": "Glassy",
-	"mohs_Hardness": "5-6",
 	"cleavage": "It is translucent in thin cleavage fragments and along sharp margins.",
-	"diaphaneity": "Transparent to translucent",
+//	"diaphaneity": "Transparent to translucent",
 	"gravity": "2.6",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "Obsidian was used to make knives, arrowheads, spear points, scrapers, and many other weapons and tools. Once these discoveries were made, obsidian quickly became the raw material of preference for producing almost any sharp object.",
@@ -1631,22 +1232,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Pale gray, gray-white, white, colorless",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Vitreous, grainy, and pearly",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Vitreous"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "The large pink crystals with the obvious cleavage planes are K-feldspars.",
@@ -1655,14 +1241,7 @@ questionAnswer = {
 	"wrongAns3": "Pencil"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.6 to 2.63",
@@ -1680,6 +1259,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Transparent to translucent",
@@ -1688,7 +1268,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 17,
 	"originalName": "Pegmatite",
@@ -1698,11 +1278,8 @@ masterJson = {
 	"src2": "images/Pegmatite2.jpg",
 	"chemical_Classification": "Intrusive igneous rocks",
 	"colour": "Gray or black",
-	"streak": "White",
-	"luster": "Vitreous, grainy, and pearly",
-	"mohs_Hardness": "7",
 	"cleavage": "The large pink crystals with the obvious cleavage planes are K-feldspars.",
-	"diaphaneity": "Transparent to translucent",
+//	"diaphaneity": "Transparent to translucent",
 	"gravity": "2.6 to 2.63",
 	"chemical_Composition": "Compositionally, the pegmatites consist of the feldspars, quartz, and muscovite with local concentrations of accessory minerals such as beryl , spodumene , tourmaline , columbite -tantalite, triphylite-lithiophilite, amblygonite , and minor sulfides and arsenides.",
 	"specialProperties": "Pegmatites contain exceptionally large crystals and they contain rarely minerals than other types of rocks. They have interlocking crystals usually larger than 2.5 cm in size. Generally, most Pegmatites are found in sheets of rock that are dikes and veins Also near large masses of igneous rocks called batholiths.",
@@ -1733,22 +1310,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Black",
-	"correctAns": "Gray over a white background",
-	"wrongAns2": "White",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Highly reflective vitreous luster",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Granite naturally exhibits anisotropic elasticity because of the alignment of minerals formed in the three orthogonal cleavage planes known as rift, grain, and hardway planes.",
@@ -1757,14 +1319,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.7",
@@ -1800,11 +1355,8 @@ masterJson = {
 	"src2": "images/PinkGranite2.jpg",
 	"chemical_Classification": "Intrusive igneous rocks",
 	"colour": "Pinkish gray",
-	"streak": "Gray over a white background",
-	"luster": "Highly reflective vitreous luster",
-	"mohs_Hardness": "6",
 	"cleavage": "Granite naturally exhibits anisotropic elasticity because of the alignment of minerals formed in the three orthogonal cleavage planes known as rift, grain, and hardway planes.",
-	"diaphaneity": "Transparent to translucent",
+//	"diaphaneity": "Transparent to translucent",
 	"gravity": "2.7",
 	"chemical_Composition": "Pink granite, like other granites is an intrusive igneous rock typically containing feldspar, quartz, mica & amphibole minerals",
 	"specialProperties": "It has very dense silica content. Since the rock is made largely of silica from magma, it contains a large amount of silica. Due to the large presence of silica in its composition, granite is highly resistant to decay.",
@@ -1836,22 +1388,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Vitreous",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Granite naturally exhibits anisotropic elasticity because of the alignment of minerals formed in the three orthogonal cleavage planes known as rift, grain, and hardway planes.",
@@ -1860,14 +1397,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6-7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.67",
@@ -1903,11 +1433,8 @@ masterJson = {
 	"src2": "images/PorphyriticGranite2.jpg",
 	"chemical_Classification": "Intrusive igneous rocks",
 	"colour": "Predominately white",
-	"streak": "White",
-	"luster": "Vitreous",
-	"mohs_Hardness": "6-7",
 	"cleavage": "Granite naturally exhibits anisotropic elasticity because of the alignment of minerals formed in the three orthogonal cleavage planes known as rift, grain, and hardway planes.",
-	"diaphaneity": "Transparent to translucent",
+//	"diaphaneity": "Transparent to translucent",
 	"gravity": "2.67",
 	"chemical_Composition": "Felsic",
 	"specialProperties": "In terms of its mineral content this is a typical granite, consisting of pink potassium feldspar, cream sodium feldspar (plagioclase), gray quartz and black biotite mica. The most striking feature of its texture is the large pink angular potassium feldspar crystals (one of which is indicated by the yellow pointer).",
@@ -1939,22 +1466,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "None",
-	"wrongAns2": "White",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Glassy",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Viterous"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Granite naturally exhibits anisotropic elasticity because of the alignment of minerals formed in the three orthogonal cleavage planes known as rift, grain, and hardway planes.",
@@ -1963,14 +1475,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6-7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.7",
@@ -1988,7 +1493,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Transparent to translucent",
@@ -1997,7 +1502,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 20,
 	"originalName": "Porphyritic Vesicular Basalt",
@@ -2007,11 +1512,8 @@ masterJson = {
 	"src2": "images/PORPHYRITICVESICULARBASALT3.jpg",
 	"chemical_Classification": "Intrusive igneous rocks",
 	"colour": "White or tan",
-	"streak": "None",
-	"luster": "Glassy",
-	"mohs_Hardness": "6-7",
 	"cleavage": "Granite naturally exhibits anisotropic elasticity because of the alignment of minerals formed in the three orthogonal cleavage planes known as rift, grain, and hardway planes.",
-	"diaphaneity": "Transparent to translucent",
+//	"diaphaneity": "Transparent to translucent",
 	"gravity": "2.7",
 	"chemical_Composition": "It is commonly composed of approximately 50% silica and 10% calcium oxide with lesser contents of potash and soda",
 	"specialProperties": "The drop in pressure that a magma experiences as it flows from underground to the Earth's surface allows water and gases in the lava to form bubbles. If the bubbles do not get large enough to pop, they are frozen in the lava as vesicles.",
@@ -2043,22 +1545,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "pale gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Silky",
-	"correctAns": "Subvitreous to Dull",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Perfect",
@@ -2067,14 +1554,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5-6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "None of these",
@@ -2092,7 +1572,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
-
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Opaque",
@@ -2101,7 +1581,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 21,
 	"originalName": "Scoria",
@@ -2111,11 +1591,8 @@ masterJson = {
 	"src2": "images/SCORIA3.jpg",
 	"chemical_Classification": "Mafic",
 	"colour": "Reddish brown",
-	"streak": "White",
-	"luster": "Subvitreous to Dull",
-	"mohs_Hardness": "5-6",
 	"cleavage": "Perfect",
-	"diaphaneity": "Opaque",
+//	"diaphaneity": "Opaque",
 	"gravity": "NA",
 	"chemical_Composition": "It is commonly composed of approximately 50% silica and 10% calcium oxide with lesser contents of potash and soda",
 	"specialProperties": "Scoria has several useful characteristics that influence how it is used. It is somewhat porous, has a high surface area and strength for its weight, and often has striking colours. Consequently, it is often used in landscaping and drainage works. It is also commonly used in gas barbecue grills.",
@@ -2147,22 +1624,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Pale gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Subvitreous to Dull",
-	"correctAns": "Silky",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Perfect",
@@ -2171,14 +1633,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "Very Low",
@@ -2196,6 +1651,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "Transparent",
@@ -2204,7 +1660,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 22,
 	"originalName": "Pumice",
@@ -2214,9 +1670,6 @@ masterJson = {
 	"src2": "images/Pumice2.jpg",
 	"chemical_Classification": "Silicon dioxide",
 	"colour": "Light gray",
-	"streak": "White",
-	"luster": "Silky",
-	"mohs_Hardness": "6",
 	"cleavage": "Perfect",
 	"diaphaneity": "Transparent",
 	"gravity": "Very Low",
@@ -2250,22 +1703,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Subvitreous to Dull",
-	"correctAns": "None of these",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Perfect",
@@ -2274,14 +1712,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "Very Low",
@@ -2299,6 +1730,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "None of these",
@@ -2307,7 +1739,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 23,
 	"originalName": "Rhyolite",
@@ -2317,11 +1749,8 @@ masterJson = {
 	"src2": "images/Rhyolite2.jpg",
 	"chemical_Classification": "Extrusive, igneous rock",
 	"colour": "Light gray",
-	"streak": "White",
-	"luster": "NA",
-	"mohs_Hardness": "6",
 	"cleavage": "Perfect",
-	"diaphaneity": "NA",
+//	"diaphaneity": "NA",
 	"gravity": "Very Low",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "The rhyolite rock may show banding or spherical growth. If stones are observed in cross-section using magnification they generally show crystalline growth and may show radiating needle patterns.",
@@ -2353,22 +1782,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Subvitreous to Dull",
-	"correctAns": "None of these",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Perfect",
@@ -2377,14 +1791,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "5.5-6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.6-2.7",
@@ -2402,6 +1809,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "None of these",
@@ -2410,7 +1818,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 24,
 	"originalName": "Syenite",
@@ -2420,11 +1828,8 @@ masterJson = {
 	"src2": "images/Syenite2.jpg",
 	"chemical_Classification": "Composed of an alkali feldspar and a ferromagnesian mineral",
 	"colour": "Variable but typically light coloured",
-	"streak": "White",
-	"luster": "NA",
-	"mohs_Hardness": "5.5-6",
 	"cleavage": "Perfect",
-	"diaphaneity": "NA",
+//	"diaphaneity": "NA",
 	"gravity": "2.6-2.7",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "Syenite rock was used to make the Quay with Sphinxes. In Australia syenite occurs as small intrusive bodies in nearly every state. In New South Wales, a large syenite intruded during the breakup of Gondwana in the Cretaceous.",
@@ -2457,22 +1862,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Subvitreous to Dull",
-	"correctAns": "Vitreous, sometimes resinous",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Indistinct",
@@ -2481,14 +1871,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "7.0-7.5",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.6-2.63",
@@ -2506,6 +1889,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "None of these",
@@ -2514,7 +1898,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 25,
 	"originalName": "Tourmaline Pegmatite",
@@ -2523,12 +1907,9 @@ masterJson = {
 	"src1": "images/TourmalinePegmatite1.jpg",
 	"src2": "images/TourmalinePegmatite2.jpg",
 	"chemical_Classification": "Monzogranitic",
+	"cleavage":"Indistinct",
 	"colour": "Pink, gray- white",
-	"streak": "White",
-	"luster": "Vitreous, sometimes resinous",
-	"mohs_Hardness": "7.0-7.5",
-	"cleavage": "Indistinct",
-	"diaphaneity": "NA",
+//	"diaphaneity": "NA",
 	"gravity": "2.6-2.63",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "Pegmatites contain exceptionally large crystals and they contain rarely minerals than other types of rocks. They have interlocking crystals usually larger than 2.5 cm in size. Generally most Pegmatites are found in sheets of rock that are dikes and veins Also near large masses of igneous rocks called batholiths.",
@@ -2560,22 +1941,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Pale gray",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Subvitreous to Dull",
-	"correctAns": "Metallic",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Indistinct",
@@ -2584,14 +1950,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "6",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.7",
@@ -2609,6 +1968,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "None of these",
@@ -2617,7 +1977,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 26,
 	"originalName": "Trachyte",
@@ -2627,11 +1987,8 @@ masterJson = {
 	"src2": "images/Trachyte2.jpg",
 	"chemical_Classification": "Extrusive igneous rock composed mostly of alkali feldspar",
 	"colour": "Light-colored",
-	"streak": "White",
-	"luster": "Metallic",
-	"mohs_Hardness": "6",
 	"cleavage": "Indistinct",
-	"diaphaneity": "NA",
+//	"diaphaneity": "NA",
 	"gravity": "2.7",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "Trachytes are typically fine-grained and light-colored, but can be black if they consist mostly of glass. They are often porphyritic, with large well-shaped crystals of sanidine in a groundmass containing much smaller imperfect sanidine laths.",
@@ -2663,22 +2020,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"correctAns": "Dull to Pearly",
-	"wrongAns1": "Metallic",
-	"wrongAns2": "Viterous",
-	"wrongAns3": "Dull"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Non-existent",
@@ -2687,14 +2029,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.86-2.87",
@@ -2712,6 +2047,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "None of these",
@@ -2720,7 +2056,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 27,
 	"originalName": "Volcanic Breccia with Gray Lava",
@@ -2730,11 +2066,8 @@ masterJson = {
 //	"src2": "images/VolcanicBrecciawithGreyLava2.jpg",
 	"chemical_Classification": "Pyroclastic",
 	"colour": "Light-gray",
-	"streak": "White",
-	"luster": "Dull to Pearly",
-	"mohs_Hardness": "7",
 	"cleavage": "Non-existent",
-	"diaphaneity": "NA",
+//	"diaphaneity": "NA",
 	"gravity": "2.86-2.87",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "The clasts in breccia are angular, while the clasts in conglomerate rock are rounded. Breccia comes in many colors and compositions. Breccia is mainly used to make decorative architectural elements. It may be polished to make decorative features or gemstones.",
@@ -2765,22 +2098,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Metallic",
-	"correctAns": "Dull to Pearly",
-	"wrongAns2": "Dull",
-	"wrongAns3": "Shiny"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Non-existent",
@@ -2789,14 +2107,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.86-2.87",
@@ -2832,11 +2143,8 @@ masterJson = {
 //	"src2": "images/VolcanicBreccia2.jpg",
 	"chemical_Classification": "Pyroclastic",
 	"colour": "Gray",
-	"streak": "White",
-	"luster": "Dull to Pearly",
-	"mohs_Hardness": "7",
 	"cleavage": "Non-existent",
-	"diaphaneity": "NA",
+//	"diaphaneity": "NA",
 	"gravity": "2.86-2.87",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "The ash is very fine grained, so only the rock fragments and pumice are identifiable. A rock with a pyroclastic texture is termed a tuff if the largest fragments are less than 2.5 inches long, a volcanic breccia if the fragments are larger.",
@@ -2866,22 +2174,7 @@ questionAnswer = {
 	"wrongAns3": "Black, brown, light to dark gray and white"
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the streak property of this igneous rock?",
-	"wrongAns1": "Gray over a white background",
-	"correctAns": "White",
-	"wrongAns2": "Black",
-	"wrongAns3": "Brown"
-};
-tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": "What is the luster property of this igneous rock?",
-	"wrongAns1": "Metallic",
-	"correctAns": "Dull to Pearly",
-	"wrongAns2": "Viterous",
-	"wrongAns3": "Silky"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": "What is the cleavage of this igneous rock?",
 	"correctAns": "Non-existent",
@@ -2890,14 +2183,7 @@ questionAnswer = {
 	"wrongAns3": "It is translucent in thin cleavage fragments and along sharp margins."
 };
 tempQuestionArr.push(questionAnswer);
-questionAnswer = {
-	"question": " What is the Mohs hardness of this igneous rock?",
-	"correctAns": "7",
-	"wrongAns1": "7.5-8",
-	"wrongAns2": "6.5-7",
-	"wrongAns3": "5.5"
-};
-tempQuestionArr.push(questionAnswer);
+
 questionAnswer = {
 	"question": " What is the specific gravity of this igneous rock?",
 	"correctAns": "2.3 - 2.5",
@@ -2915,6 +2201,7 @@ questionAnswer = {
 	"wrongAns3": "Calcium Plagioclase, Pyroxene"
 };
 tempQuestionArr.push(questionAnswer);
+/*
 questionAnswer = {
 	"question": " What is the diaphaneity of this igneous rock?",
 	"correctAns": "None of these",
@@ -2923,7 +2210,7 @@ questionAnswer = {
 	"wrongAns3": "Opaque, Translucent, Transparent"
 };
 tempQuestionArr.push(questionAnswer);
- 
+ */
 masterJson = {
 	"mineralId": 29,
 	"originalName": "Volcanic Glass",
@@ -2933,11 +2220,8 @@ masterJson = {
 	"src2": "images/Volcanicglass2.jpg",
 	"chemical_Classification": "Amorphous",
 	"colour": "Yellow",
-	"streak": "White",
-	"luster": "Dull to Pearly",
-	"mohs_Hardness": "7",
 	"cleavage": "Non-existent",
-	"diaphaneity": "NA",
+//	"diaphaneity": "NA",
 	"gravity": "2.3 - 2.5",
 	"chemical_Composition": "SiO<sub>2</sub>",
 	"specialProperties": "Volcanic glasses are commonly dark or black, although these structures can also be brown, tan, green even blue, red, orange, or yellow depending on the trace elements or inclusions. Like any crystal, volcanic glasses are chemically metastable, that is, with the passage of time, the volcanic glasses can crystallize.",
@@ -2946,7 +2230,7 @@ masterJson = {
 
 masterJsonArr.push(masterJson);
 tempMasterJson.demo = masterJsonArr;
-
+console.log(tempMasterJson);
 
 
 
