@@ -245,12 +245,13 @@ function mineralSelect(){
 		
 		function originalName(){
 			$("#mineral").attr("disabled", true);
+			
 			for(i=0;i<tempMasterJson.demo.length;i++){
 					var mineral=$('#mineral :selected').val();
 					var originalName=$('#originalName :selected').val();
 						 	if(mineral==originalName){
 						 		$('#info_div').html("");
-
+									$("#helpTip").hide();
 						 		var text='<div class="container col-lg-5  col-sm-12" >'
 						 				+'<div class="heading_div">'
 						 				+'<b><center>'+tempMasterJson.demo[copyMineralid].originalName+'</center></b>'
