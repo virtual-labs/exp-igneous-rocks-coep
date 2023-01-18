@@ -150,7 +150,7 @@ function mineralSelect(){
 			$('#originalName').change(function()
 			{
 				attemptCount++;
-					temp=4-attemptCount;
+					temp=3-attemptCount;
 								if(temp>1&& temp<4)
 									{										
 										$("#helpTip").html("Select correct name, You have only "+temp+" attempt !!!");
