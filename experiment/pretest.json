@@ -9,12 +9,7 @@
         "c": "Lithology",
         "d": "Rockology"
       },
-      "explanations": {
-        "a": "Explanation : The branch of geology dealing with various aspects of rocks such as their formation, classification and occurrence is called petrology",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "Gaseous",
         "d": "Mixture of liquid, crystals and gases"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation: Magma or lava from which igneous rocks are formed may not be entirely a pure melt: it may have a crystalline or solid fraction and also a gaseous fraction thoroughly mixed with it"
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "Inside the core",
         "d": "Between mantle"
       },
-      "explanations": {
-        "a": "Explanation",
-        "b": "Explanation :Volcanic rocks are the igneous rocks formed on the surface of the Earth by cooling and crystallization of lava erupted from volcanoes",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -60,12 +45,7 @@
         "c": "Intermediate",
         "d": "Very fine"
       },
-      "explanations": {
-        "a": "Explanation",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation :Since the lava cools down at a very fast rate (compared to magma), the grain size of the crystals formed in the volcanic rocks is very fine, often microscope."
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -77,12 +57,7 @@
         "c": "Syenite porphyry",
         "d": "Marble"
       },
-      "explanations": {
-        "a": "Explanation : Granites, Syenites and Gabbros are a few examples of Plutonic rocks. They occur in good abundance in both the Peninsular and extra-Peninsular India.",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -94,12 +69,7 @@
         "c": "Hypabyssal",
         "d": "Sedimentary rocks"
       },
-      "explanations": {
-        "a": "Explanation :",
-        "b": "Explanation ",
-        "c": "Explanation :Porphyries of various composition are examples of hypabyssal rocks.",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
