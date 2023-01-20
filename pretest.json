@@ -1,0 +1,77 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The branch of geology which deals with various aspects of rocks is ?",
+      "answers": {
+        "a": "Petrology",
+        "b": "Mineralogy",
+        "c": "Lithology",
+        "d": "Rockology"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the state of lava or magma??",
+      "answers": {
+        "a": "Liquid always",
+        "b": "Solid",
+        "c": "Gaseous",
+        "d": "Mixture of liquid, crystals and gases"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Where are the volcanic rocks formed?",
+      "answers": {
+        "a": "Under the surface of earth",
+        "b": "On the surface of earth",
+        "c": "Inside the core",
+        "d": "Between mantle"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the grain size of volcanic rocks?",
+      "answers": {
+        "a": "Very coarse",
+        "b": "Coarse",
+        "c": "Intermediate",
+        "d": "Very fine"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Pick the plutonic igneous rock.",
+      "answers": {
+        "a": "Granite",
+        "b": "Granite porphyry",
+        "c": "Syenite porphyry",
+        "d": "Marble"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Porphyries are examples of which type of rocks?",
+      "answers": {
+        "a": "Volcanic",
+        "b": "Plutonic",
+        "c": "Hypabyssal",
+        "d": "Sedimentary rocks"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
