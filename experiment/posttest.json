@@ -9,12 +9,7 @@
 				"c": "Molten state and moderate temperature",
 				"d": "Crystallized state and moderate temperature"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation :A very high temperature and a molten state are, two very important conditions for the original material from which the igneous rocks are believed to have been formed",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		},
@@ -26,12 +21,7 @@
 				"c": "7 to 10 km",
 				"d": "1 to 5 km"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation ",
-				"c": "Explanation:Plutonic rocks are the igneous rocks formed at considerable depths, generally between 7-10 km below the surface of the earth.",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		},
@@ -43,12 +33,7 @@
 				"c": "Hypabyssal rocks always",
 				"d": "1 to 5 km"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation :Because of a very slow rate of cooling at the depths, the rocks resulting from magma are coarse grained. These rocks get exposed on the surface of the earth as a consequence of erosion of the overlying strata",
-				"c": "Explanation ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		},
@@ -60,12 +45,7 @@
 				"c": "Hypabyssal rocks",
 				"d": "Secondary rocks"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation ",
-				"c": "Explanation:The hypabyssal rocks are the igneous rocks which are formed at intermediate depths, generally up to 2 km below the surface of the earth and exhibit mixed characteristics of volcanic and plutonic rocks.",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		},
@@ -77,12 +57,7 @@
 				"c": "Dyke",
 				"d": "Laccolith"
 			},
-			"explanations": {
-				"a": "Explanation :It is typical of sills that their thickness is much small than their width and length. Moreover, this body commonly thins out or tapers along its outer margins. ",
-				"b": "Explanation ",
-				"c": "Explanation  ",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "a",
 			"difficulty": "beginner"
 		},
@@ -94,12 +69,7 @@
 				"c": "Finer grain size",
 				"d": "Can be of any size"
 			},
-			"explanations": {
-				"a": "Explanation ",
-				"b": "Explanation ",
-				"c": "Explanation: The upper and lower margins of sills commonly show a comparatively finer grain size than their interior portions.",
-				"d": "Explanation "
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		}
